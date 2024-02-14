@@ -1,5 +1,5 @@
 
-# Unix Shell project
+# Unix Shell Project - UVash
 
 This project was made for *Operating Systems Structures* subject at University of Valladolid which consists on develop a completely functional shell in Unix with C languange. 
 The explanation with more detail it resides at [laboratorio-eso](https://github.com/bsahelices/laboratorio-eso/tree/master/Practica2).
@@ -24,7 +24,7 @@ test 7: passed
 ...
 prompt> 
 ```
-Otherwise, if you want, you can only run the ```./test-UVash.sh``` command because i already included the compiled file.
+Otherwise, if you want, you can only run the ```./test-UVash.sh``` command given that i already included the compiled file ```UVash``` in the repository.
 
 
 
