@@ -1,7 +1,7 @@
 
 # Unix Shell Project - UVash
 
-This project was made for *Operating Systems Structures* subject at University of Valladolid which consists on develop a completely functional shell in Unix with C languange. 
+This project was made for *Operating Systems Structures* subject at University of Valladolid part of the Computer Science Degree which consists on develop a completely functional shell in Unix with C languange. 
 The explanation with more detail it resides at [laboratorio-eso](https://github.com/bsahelices/laboratorio-eso/tree/master/Practica2).
 
 Also (increasingly) available are some tests to see if the code works; The testing framework that is
