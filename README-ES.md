@@ -1,5 +1,5 @@
 # Shell en Unix - UVash
-Este proyecto se realizó para la asignatura de *Estructuras de Sistemas Operativos* en la Universidad de Valladolid, que consiste en desarrollar un shell completamente funcional en Unix con el lenguaje C. La explicación más detallada se encuentra en [laboratorio-eso](https://github.com/bsahelices/laboratorio-eso/tree/master/Practica2)..
+Este proyecto se realizó para la asignatura de *Estructuras de Sistemas Operativos* en la Universidad de Valladolid parte del Grado Ciencias de la Computación, que consiste en desarrollar un shell completamente funcional en Unix con el lenguaje C. La explicación más detallada se encuentra en [laboratorio-eso](https://github.com/bsahelices/laboratorio-eso/tree/master/Practica2)..
 
 También están disponibles (cada vez más) algunas pruebas para verificar si el código funciona; El marco de pruebas que está actualmente disponible se encuentra [aquí](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/tester). Un script de prueba específico, que se encuentra en el directorio del proyecto, puede ser utilizado para ejecutar las pruebas contra el código.
 
