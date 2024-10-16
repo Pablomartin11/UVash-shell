@@ -1,6 +1,8 @@
 
 # Unix Shell Project - UVash
 
+[![es](https://img.shields.io/badge/lang-es-red.svg)](/README-ES.md)
+
 This project was made for *Operating Systems Structures* subject at University of Valladolid part of the Computer Science Degree which consists on develop a completely functional shell in Unix using the C languange. 
 The explanation with more detail resides at [laboratorio-eso](https://github.com/bsahelices/laboratorio-eso/tree/master/Practica2).
 
